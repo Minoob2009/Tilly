@@ -1,0 +1,228 @@
+body {
+    
+     background: url(../img/Background_V1.png) no-repeat fixed center/cover;
+     height: 500vh
+    
+}
+
+
+.titre1 {
+    background: whitesmoke;
+    margin: 0 500px;
+    border-radius: 10px;
+    
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 2rem;
+    color: red;
+    text-shadow: 4px -1px 0 darkred;
+     
+}
+
+/* commencement et midgame*/
+
+.titre2 {
+    
+    font-size: 2rem;
+    color:green
+    
+}
+
+/* texte de fin de la page 2 */
+.texte1 {
+    font-size: 1.3rem; 
+}
+
+
+/* grand 1 */
+main {
+    background: url(../img/background.jpg);
+    margin: 10px 500px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+
+    color: darkblue; 
+}
+/*Paragraphes grand 1 */
+
+.paraGr1 {
+    color: black;
+    font-size: 1.15rem;
+}
+
+/* bow grand 2 */
+
+.main2 {
+    background: url(../img/background.jpg);
+    margin: 10px 500px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+}
+
+/* du "dans un coin" à la première vidéo  aka le plus utlisé*/
+
+.main3 {
+    background: url(../img/background\ wood\ 2.jpg);
+    margin: 5px 400px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+    color: black;
+    
+}
+
+/* troll*/
+
+#troll {
+    color: blanchedalmond;
+}
+
+/* méthode où nul*/
+
+.mainANGRY {
+    background: url(../img/angry\ boy.jpg) center/cover;
+    
+    margin: 5px 400px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+    color: black;
+    
+}
+
+/* méthode où fort*/
+
+.mainSTRONG {
+    background: url(../img/strong\ man.jpg) center/cover;
+    margin: 5px 400px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+    color: black;
+}
+/* dernier paragraphe */
+
+.retenir {
+    background: whitesmoke;
+    margin: 5px 400px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    
+
+}
+.titreRETENIR {
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 2rem;
+    color: red;
+    text-shadow: 4px -1px 0 darkred;
+}
+
+/* pour toutes les photos */
+
+.img {
+    margin: 2px 0px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: dotted;
+    border-color:black;
+    text-decoration: none;
+}
+
+/* pour toutes les vidéos */
+
+.vidéo {
+    
+    margin: 0px 0px;
+    border-radius: 10px;
+
+    border-width:2px; 
+    border-style: double;
+    border-color:black;
+    text-decoration: none;
+}
+
+/* toutes les remarques*/
+
+.remarque {
+    text-decoration: underline;
+    background: yellow;
+
+    border-radius: 10px;
+    font-size: 1rem;
+    color: rgb(255, 0, 0);
+}
+
+/* "pour mieux comprendre" ²*/
+
+.comprendre {
+    background: whitesmoke;
+    border-radius: 10px;
+    text-decoration: underline;
+    font-size: 1.2rem;
+}
+
+/* ici on traire tout le texte sur les images que l'on ne voit pas clairement*/
+
+.retapage{
+    font-size: 1.2rem;
+
+    background: whitesmoke;
+    margin: 0px 250px;
+    border-radius: 10px;
+   
+}
+.a {
+    padding: 15px 20px;
+    background-color: aqua;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #333333;
+    border-radius: .25rem;
+    box-shadow: 0 0 20px rgba(36, 36, 36, 0.541)
+    
+    
+  }
+
+  /*ici sont les 2 boutons à la fin et juste audessus, le fait que ce soit dans une boîte*/
+#page3 {
+   
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+}
+#accueil {
+    
+    position: absolute;
+    bottom: 3px;
+    left: 3px;
+}
